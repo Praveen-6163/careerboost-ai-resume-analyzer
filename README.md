@@ -1,6 +1,7 @@
 # 🚀 CareerBoost AI - Resume Analyzer & Job Matcher
 
 CareerBoost AI is a modern, AI-powered Streamlit web application that analyzes resumes in PDF format using the **Google Gemini API** (`gemini-2.5-flash`). It computes an Applicant Tracking System (ATS) matching score, extracts technical and soft skills, uncovers critical skill gaps, identifies suitable job roles, and provides highly specific recommendations to tailor your resume for a job description.
+
 APP LINK : https://careerboost-ai-resume-analyzer-yvvikannwf3emtebzaavzo.streamlit.app/
 
 ---
